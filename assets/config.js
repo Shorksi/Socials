@@ -28,5 +28,10 @@ let config = {
       "URL": "https://osu.ppy.sh/users/schlaflose",
       "icon_classes": "fab fa-osu"
     },
+    {
+      "Title": "Soundcloud",
+      "URL": "https://soundcloud.com/shorksi",
+      "icon_classes": "fab fa-soundcloud"
+    },
   ]
 }
