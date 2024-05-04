@@ -33,5 +33,10 @@ let config = {
       "URL": "https://soundcloud.com/shorksi",
       "icon_classes": "fab fa-soundcloud"
     },
+    {
+      "Title": "Anilist",
+      "URL": "https://anilist.co/user/Shorksi/",
+      "icon_classes": "fab fa-anilist"
+    },
   ]
 }
