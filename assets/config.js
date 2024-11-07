@@ -10,7 +10,7 @@ let config = {
     },
     {
       "Title": "YouTube",
-      "URL": "https://youtube.com/NotJonnyYT",
+      "URL": "https://youtube.com/@Shorksi",
       "icon_classes": "fab fa-youtube"
     },
     {
@@ -32,11 +32,6 @@ let config = {
       "Title": "Soundcloud",
       "URL": "https://soundcloud.com/shorksi",
       "icon_classes": "fab fa-soundcloud"
-    },
-    {
-      "Title": "Anilist",
-      "URL": "https://anilist.co/user/Shorksi/",
-      "icon_classes": "fab fa-anilist"
     },
   ]
 }
